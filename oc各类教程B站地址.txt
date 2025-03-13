@@ -1,0 +1,12 @@
+5515和5525笔记本看这条！！>>ryzen controller使用教程：BV1Ty4y1r79S
+5515和5525是AMD的cpu，你们也可以看这条解决掉帧问题：BV1Eu411Y7JQ
+我的上一期控制台替换，显卡降压超频，解DB的视频：BV1LJ4m137i3
+G15拆机教学视频：BV1Kk4y1s73g 
+相变片粘贴教程：BV1zM4y1w7SJ
+相变片性能测试：BV1tK4y1z7j7
+CPU降压超频改AC教程：BV11X4y14795
+2P：BV1vX4y147Br 在12:15开始是G15，G15 5520 在RU工具的cpusetup的0132这条改A0，5530这条改64
+TS使用教程：BV1Ce4y1C7M3
+显卡刷130w 3060 vbios教程案例：cv10409113（有风险！！！！！！）
+刷系统教程：BV1vT4y1n7JX（建议使用itellyou网站里面的系统iso文件）
+拒绝伸手党。
